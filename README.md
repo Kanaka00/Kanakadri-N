@@ -5,7 +5,6 @@ Welcome to my personal front-end development portfolio! This repository showcase
 
 ## Skills
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript, Tailwind CSS, React, Vite
-- **Backend:** Node.js, Express.js, SQL, NoSQL
 - **Version Control:** Git, GitHub
 - **Other Technologies:** API Integration, Authentication, Deployment
 
@@ -14,8 +13,12 @@ Welcome to my personal front-end development portfolio! This repository showcase
 2. **Search Chat Box**: A dynamic search functionality built using JavaScript, HTML, CSS, and React.
 3. **Personal Website**: A website showcasing my web development projects and skills, with a clean and modern design.
 
-## Installation
-To set up the project on your local machine:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/frontend-web.git
+## Contact
+Feel free to reach out to me via the following channels:
+
+- **Email:** [kanakadri@example.com](mailto:kanakadri@example.com)
+- **Phone:** [6304650601](tel:6304650601)
+- **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+- **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- **Instagram:** [https://www.instagram.com/editor.fx2](https://www.instagram.com/editor.fx2)
+
